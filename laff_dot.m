@@ -11,7 +11,7 @@ if (m_x * n_x ~= m_y * n_y)
     alpha = 'FAILED';
     return
 end
-alpha = 0
+alpha = 0;
 if (m_x == 1 )
     if (m_y == 1 ) 
         for i = 1:n_x
